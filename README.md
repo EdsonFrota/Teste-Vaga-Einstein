@@ -64,3 +64,9 @@ Descrição de uma experiência pessoal na resolução de um problema sob press�
 - **Asyncio**  
 - **AWS (EC2)**  
 - **Segurança em APIs**
+
+---
+
+### Autor
+- **Edson Frota**
+- **Data:** 16/02/2025
