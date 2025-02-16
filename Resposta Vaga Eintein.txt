@@ -1,3 +1,9 @@
+---
+### Autor
+- **Edson Frota**
+- **Data:** 16/02/2025
+---
+
 01. 
 Um dataset desbalanceado pode ser um grande desafio quando estamos trabalhando com modelos de classificação. Imagine que você está tentando prever fraudes em transações financeiras, mas, no seu conjunto de dados, apenas 1% dos registros são fraudes e os outros 99% são transações normais. Esse desequilíbrio pode fazer com que o modelo fique "viciado" em prever sempre a classe majoritária, ou seja, ele pode simplesmente classificar tudo como "não fraude" e ainda assim ter uma alta acurácia. Só que, nesse caso, o modelo não está ajudando em nada, porque o que a gente realmente quer é identificar as fraudes, que são justamente a classe minoritária.
 
